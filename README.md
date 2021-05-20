@@ -1,7 +1,7 @@
 # IoT_relay_switch
 Control switches over wifi with an arduino
 
-The only mandatory parts are:
+parts:
 
 0. multimeter
 1. arduino
@@ -14,10 +14,6 @@ The only mandatory parts are:
 8. usb cable
 9. phone power adapter
 10. box to install them in
-
-Optional:
-
-0. ability to control swiches from python script 
 
 Phone interface:
 
